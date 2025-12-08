@@ -27,19 +27,15 @@
 
 <div align="center">
 
-<a href="https://github.com/Grigarin-5">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Grigarin-5&theme=radical&show_icons=true&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Grigarin-5&theme=radical&hide_border=true" />
-</a>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Grigarin-5&show_icons=true&theme=radical&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Grigarin-5&theme=radical&hide_border=true" />
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grigarin-5&layout=compact&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Grigarin-5&layout=compact&theme=radical&hide_border=true" />
 
 </div>
-
----
-
 ## 🐍 Contribution Snake
 
 > (Snake will appear only if the workflow is installed — I'll send steps after this.)
