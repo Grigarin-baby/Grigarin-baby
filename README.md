@@ -1,14 +1,14 @@
 <div align="center">
 
-<a href="https://www.bairuhatech.com/" target="_blank" style="text-decoration: none; color: inherit;">
 
 # 👋 Hi there, I'm **Grigarin**
 
+<a href="https://www.bairuhatech.com/" target="_blank" style="text-decoration: none; color: inherit;">
 ### 🚀 Full Stack Developer @ Bairuhatech LLP  
+</a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Web+%26+Mobile+Apps;Backend+Developer;Always+Learning🚀)](https://git.io/typing-svg)
 
-</a>
 </div>
 
 ---
