@@ -10,9 +10,20 @@
 
 ---
 
+## 💼 Current Role
+
+<div align="center">
+
+**Full Stack Developer** at **[Bairuhatech LLP](https://bairuhatech.com)**
+
+</div>
+
+---
+
 ## 🚀 Tech Stack
 
-### Frontend Development
+### **Frontend Development**
+
 <div align="center">
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,14 +35,20 @@
 
 </div>
 
-### Mobile Development
+<br/>
+
+### **Mobile Development**
+
 <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
-### Backend & Languages
+<br/>
+
+### **Backend & Languages**
+
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,7 +57,10 @@
 
 </div>
 
-### Databases
+<br/>
+
+### **Databases**
+
 <div align="center">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -49,12 +69,32 @@
 
 </div>
 
-### Tools & Version Control
+<br/>
+
+### **Tools & Version Control**
+
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+</div>
+
+---
+
+## 🛠️ Skills Overview
+
+<div align="center">
+
+| **Frontend** | **Backend** | **Mobile** | **Databases** | **Tools** |
+|:------------:|:-----------:|:----------:|:------------:|:---------:|
+| HTML5 | Java | Flutter | MongoDB | Git |
+| CSS3 | Kotlin | | PostgreSQL | GitHub |
+| Tailwind CSS | Node.js | | MySQL | Mongoose |
+| TypeScript | | | SQL | |
+| ReactJS | | | | |
+| NextJS | | | | |
 
 </div>
 
@@ -66,36 +106,13 @@
   
 ![Grigarin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grigarin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
 
+<br/>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grigarin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
 
+<br/>
+
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Grigarin&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-</div>
-
----
-
-## 💼 Current Role
-
-<div align="center">
-
-**Full Stack Developer** at **[Bairuhatech LLP](https://bairuhatech.com)**
-
-</div>
-
----
-
-## 🛠️ Skills Overview
-
-<div align="center">
-
-| Frontend | Backend | Mobile | Databases | Tools |
-|:--------:|:-------:|:------:|:---------:|:-----:|
-| HTML5 | Java | Flutter | MongoDB | Git |
-| CSS3 | Kotlin | | PostgreSQL | GitHub |
-| Tailwind CSS | Node.js | | MySQL | Mongoose |
-| TypeScript | | | SQL | |
-| ReactJS | | | | |
-| NextJS | | | | |
 
 </div>
 
@@ -129,6 +146,8 @@
 ### ⚡ Quick Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Grigarin&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
 
 **Thanks for visiting!** ⭐️
 
