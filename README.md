@@ -29,7 +29,7 @@
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Grigarin-5&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Grigarin-5&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 
 </div>
 
@@ -63,6 +63,9 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Grigarin-5&theme=react-dark&hide_border=true&area=true" />
 
 </div>
+
+---
+
 ## 🐍 Contribution Snake
 
 > (Snake will appear only if the workflow is installed — I'll send steps after this.)
