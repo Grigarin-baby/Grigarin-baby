@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- Banner -->
-  <img src="https://github.com/Grigarin-baby/banner/blob/main/banner.png" width="100%" alt="Welcome Banner"/>
-
   <!-- Title -->
   <h1 align="center">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" height="35"/>
@@ -45,7 +42,16 @@ I thrive in collaborative environments and am always eager to learn new technolo
 
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,js,ts" alt="Frontend Technologies" />
 
+  <br/>
+  <br/>
+
+  **Frameworks & Libraries:** React, Next.js, Flutter  
+  **Styling:** Tailwind CSS  
+  **Languages:** JavaScript, TypeScript
+
 </div>
+
+---
 
 ### **Backend & Database**
 
@@ -53,19 +59,30 @@ I thrive in collaborative environments and am always eager to learn new technolo
 
   <img src="https://skillicons.dev/icons?i=nestjs,express,nodejs,postgres,mongodb" alt="Backend Technologies" />
 
+  <br/>
+  <br/>
+
+  **Frameworks:** NestJS, Express.js, Node.js  
+  **Databases:** PostgreSQL, MongoDB  
+  **Tools:** pgAdmin
+
 </div>
 
-<div align="center">
-
-  🗂 **Experienced in:** PostgreSQL, MongoDB & pgAdmin
-
-</div>
+---
 
 ### **Development Tools**
 
 <div align="center">
 
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" alt="Development Tools" />
+
+  <br/>
+  <br/>
+
+  **Version Control:** Git, GitHub  
+  **Design:** Figma  
+  **IDE:** VS Code  
+  **API Testing:** Postman
 
 </div>
 
@@ -75,64 +92,11 @@ I thrive in collaborative environments and am always eager to learn new technolo
 
 ### 🟣 **Plan-IT** — Academic Final Year Project
 
-<div align="justify">
-
-**Blockchain-based secure event ticketing platform**
-
-- ✅ SEO optimized for maximum visibility
-- ✅ Speaker invitation system
-- ✅ Real-time event updates
-- ✅ Scalable architecture for large-scale event hosting
-- ✅ Secure blockchain integration for ticket management
-
-</div>
-
----
-
 ### 🟦 **Travel Eye** — Travel CRM System
-
-<div align="justify">
-
-**Full-stack travel management solution**
-
-- **Frontend:** React + Vite with modern UI components
-- **Backend:** NestJS with RESTful API architecture
-- ✅ Implemented comprehensive UI/UX improvements
-- ✅ Seamless backend integrations
-- ✅ Optimized performance and user experience
-
-</div>
-
----
 
 ### 🛍 **Fabro** — E-commerce Web Application
 
-<div align="justify">
-
-**Modern e-commerce platform**
-
-- **Tech Stack:** Next.js with server-side rendering
-- ✅ Fully responsive design across all devices
-- ✅ Enhanced user experience and interface
-- ✅ Scalable architecture for growing product catalogs
-- ✅ Performance optimization
-
-</div>
-
----
-
 ### 🏫 **Ilahiya College** — Official Website
-
-<div align="justify">
-
-**Institutional website development**
-
-- **Tech Stack:** Next.js with modern design principles
-- ✅ Fully responsive and mobile-optimized
-- ✅ Professional institutional branding
-- ✅ Easy content management and updates
-
-</div>
 
 ---
 
