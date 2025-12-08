@@ -74,7 +74,7 @@
 
 ### 🟩 Contribution Snake Animation - Personal
 
-<img src="https://raw.githubusercontent.com/Grigarin-5/Snake-Output/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Grigarin-baby/Snake-Output/output/github-contribution-grid-snake.svg" />
 
 </div>
 
