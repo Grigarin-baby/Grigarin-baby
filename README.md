@@ -84,15 +84,19 @@
 
 <div align="center">
   
-![Grigarin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grigarin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
+![Grigarin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grigarin-baby&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grigarin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grigarin-baby&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Grigarin&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Grigarin-baby&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Grigarin-baby&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
@@ -113,7 +117,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/grigarin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Grigarin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Grigarin-baby)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
@@ -125,13 +129,13 @@
 
 ### ⚡ Quick Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=Grigarin&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Grigarin-baby&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
 **Thanks for visiting!** ⭐️
 
-*From [Grigarin](https://github.com/Grigarin)*
+*From [Grigarin](https://github.com/Grigarin-baby)*
 
 </div>
 
@@ -139,6 +143,6 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/Grigarin/Grigarin/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Grigarin-baby/Grigarin-baby/blob/output/github-contribution-grid-snake.svg)
 
 </div>
