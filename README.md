@@ -27,13 +27,40 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Grigarin-5&show_icons=true&theme=radical&hide_border=true" />
+### 🏆 GitHub Trophies
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Grigarin-5&theme=radical&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Grigarin-5&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 
-<br/>
+</div>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Grigarin-5&layout=compact&theme=radical&hide_border=true" />
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Grigarin-5&show_icons=true&theme=radical&hide_border=true" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Grigarin-5&theme=radical&hide_border=true" />
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Grigarin-5&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Grigarin-5&theme=react-dark&hide_border=true&area=true" />
 
 </div>
 ## 🐍 Contribution Snake
