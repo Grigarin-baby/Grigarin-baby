@@ -83,20 +83,33 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![Grigarin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grigarin-baby&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
 
-<br/>
+### 🎯 **My GitHub Activity**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grigarin-baby&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
+<table>
+<tr>
+<td width="50%">
 
-<br/>
+![Grigarin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grigarin-baby&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&include_all_commits=true&count_private=true)
+
+</td>
+<td width="50%">
 
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Grigarin-baby&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
+</td>
+</tr>
+</table>
+
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Grigarin-baby&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grigarin-baby&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8)
+
+<br/>
+
+### 📈 **Contribution Graph**
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Grigarin-baby&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Grigarin%27s%20Contribution%20Graph)
 
 </div>
 
