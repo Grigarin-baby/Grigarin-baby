@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi there, I'm **Grigarin**
-
+Full Stack Developer 
 <a href="https://www.bairuhatech.com/" target="_blank" style="
     display: inline-block;
     padding: 10px 25px;
@@ -14,7 +14,7 @@
     text-decoration: none;
     transition: all 0.3s ease;
 ">
-🚀 Full Stack Developer @ Bairuhatech LLP
+@Bairuhatech LLP
 </a>
 
 <br/>
