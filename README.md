@@ -60,11 +60,26 @@
 
 ---
 
-## 🐍 Contribution Snake
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Grigarin-baby/Grigarin-baby/output/github-contribution-grid-snake.svg" />
-</p>
+## 🐍 Contribution Snake Animation - Public
+
+<div align="center">
+
+### 🟦 Profile Snake (Main Account Contribution)
+
+<img src="https://raw.githubusercontent.com/Grigarin-baby/Grigarin-baby/output/github-contribution-grid-snake.svg" />
+
+<br/><br/>
+
+### 🟩 Contribution Snake Animation - Personal
+
+<img src="https://raw.githubusercontent.com/Grigarin-5/Snake-Output/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
 
 ---
 
