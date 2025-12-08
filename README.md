@@ -26,7 +26,55 @@
 
 ### 💻 **Technologies I Work With**
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,ts,js,react,nextjs,flutter,java,kotlin,nodejs,express,nestjs,mongodb,postgresql,mysql,git,github,figma,vscode,postman" alt="Tech Stack" />
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
+
+#### 🎨 **Frontend & Mobile**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,ts,js,react,nextjs,flutter" alt="Frontend Technologies" />
+
+</div>
+
+</td>
+<td align="center" width="33%" valign="top">
+
+#### ⚙️ **Backend**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,express,nestjs" alt="Backend Technologies" />
+
+</div>
+
+</td>
+<td align="center" width="33%" valign="top">
+
+#### 🗄️ **Databases**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" alt="Databases" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+#### 🛠️ **Tools & Others**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" alt="Tools" />
+
+</div>
 
 </div>
 
