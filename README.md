@@ -39,10 +39,10 @@
 ## 🐍 Contribution Snake
 
 > (Snake will appear only if the workflow is installed — I'll send steps after this.)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Grigarin-5/Grigarin-5/output/github-contribution-grid-snake.svg" />
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Grigarin-5/Grigarin-5/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
 
 ---
 
