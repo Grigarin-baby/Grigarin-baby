@@ -22,7 +22,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: Grigarin-5
+          github_user_name: Grigarin-baby
           outputs: |
             dist/github-contribution-grid-snake.svg
 
