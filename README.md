@@ -41,9 +41,7 @@
 > (Snake will appear only if the workflow is installed — I'll send steps after this.)
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Grigarin-5/Grigarin-5/output/github-contribution-grid-snake.svg" />
-
+  <img src="https://raw.githubusercontent.com/Grigarin-5/Grigarin-5/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
