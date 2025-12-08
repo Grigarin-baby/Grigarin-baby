@@ -4,41 +4,19 @@
 
 ### 🚀 Full Stack Developer @ Bairuhatech LLP  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+%26+Mobile+Apps;Scalable+Backend+Systems;Always+Learning+%26+Improving✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Web+%26+Mobile+Apps;Backend+Developer;Always+Learning🚀)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 💼 Current Role
+## 🧠 Tech Stack
 
 <div align="center">
 
-🔧 **Full Stack Developer**  
-🏢 **Bairuhatech LLP**
-
-</div>
-
----
-
-## 🧠 Tech Stack & Skills
-
-<div align="center">
-
-### 💻 Frontend & Mobile
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,ts,js,react,nextjs,flutter" />
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,express,nestjs" />
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-
-### 🛠 Tools & Others
-
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,ts,js,react,nextjs,flutter" /><br/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,express,nestjs" /><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" /><br/>
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
 
 </div>
@@ -49,24 +27,14 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grigarin-5&show_icons=true&theme=radical&hide_border=true)
-
-</td>
-<td width="50%">
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=Grigarin-5&theme=radical&hide_border=true)
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/Grigarin-5">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Grigarin-5&theme=radical&show_icons=true&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Grigarin-5&theme=radical&hide_border=true" />
+</a>
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grigarin-5&layout=compact&theme=radical&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grigarin-5&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
@@ -74,17 +42,13 @@
 
 ## 🐍 Contribution Snake
 
+> (Snake will appear only if the workflow is installed — I'll send steps after this.)
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Grigarin-5/Grigarin-5/output/github-contribution-grid-snake.svg" />
 
 </div>
-
----
-
-## 🌟 Featured Projects
-
-> 🚧 Coming soon…
 
 ---
 
@@ -104,6 +68,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Grigarin-5&color=00D9FF&style=for-the-badge)
 
-### ⭐ Thanks for stopping by!
+### ⭐ Thanks for visiting!
 
 </div>
