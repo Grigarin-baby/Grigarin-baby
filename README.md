@@ -79,7 +79,7 @@ Full Stack Developer
 
 ##  Contribution  - Public
 
-<div align="center">
+
 
 ### 🟦 Profile Snake (Main Account Contribution)
 
@@ -92,7 +92,7 @@ Full Stack Developer
 <img src="https://raw.githubusercontent.com/Grigarin-baby/Grigarin-baby/output2/github-contribution-grid-snake.svg" />
 
 
-</div>
+
 
 ---
 
