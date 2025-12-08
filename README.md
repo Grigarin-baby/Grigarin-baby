@@ -111,7 +111,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Grigarin-5&theme=github-dark&bg_color=0D1117&hide_border=true&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&title=Contribution%20Activity&custom_title=Grigarin%27s%20GitHub%20Contributions" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Grigarin-5&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Grigarin%27s%20Contribution%20Graph" alt="Contribution Graph" width="100%" />
+
+<br/>
+
+<!-- Animated contribution snake for Grigarin-5 -->
+<img src="https://raw.githubusercontent.com/Grigarin-5/Grigarin-5/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
 </div>
 
