@@ -48,9 +48,11 @@
 
 </div>
 
-<div align="center">
+---
 
-### 📈 Activity Graph
+## 📈 Activity Graph
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Grigarin-baby&theme=react-dark&hide_border=true&area=true" />
 
