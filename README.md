@@ -77,7 +77,7 @@ Full Stack Developer
 
 ---
 
-## 🐍 Contribution Snake Animation - Public
+##  Contribution  - Public
 
 <div align="center">
 
@@ -87,7 +87,7 @@ Full Stack Developer
 
 <br/><br/>
 
-### 🟩 Contribution Snake Animation - Personal
+### Contribution  - Personal
 
 <img src="https://raw.githubusercontent.com/Grigarin-baby/Grigarin-baby/output2/github-contribution-grid-snake.svg" />
 
