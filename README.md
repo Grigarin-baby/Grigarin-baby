@@ -14,7 +14,6 @@ Full Stack Developer
     text-decoration: none;
     transition: all 0.3s ease;
 ">
-@Bairuhatech LLP
 </a>
 
 <br/>
