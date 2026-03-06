@@ -77,19 +77,12 @@ Full Stack Developer
 
 ---
 
-##  Contribution  - Public
+##  Contribution  
 
 
 <img src="https://raw.githubusercontent.com/Grigarin-baby/Grigarin-baby/output/github-contribution-grid-snake.svg" />
 
 <br/><br/>
-
-### Contribution  - Personal
-
-<img src="https://raw.githubusercontent.com/Grigarin-baby/Grigarin-baby/output2/github-contribution-grid-snake.svg" />
-
-
-
 
 ---
 
